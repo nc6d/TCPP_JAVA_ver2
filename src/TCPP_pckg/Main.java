@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hello, World!");
         System.out.println("CHANGE_1(ALPHA)");
         System.out.println("CHANGE_2(ALPHA)");
+        System.out.println("CHANGE_1(BETA)");
     }
 }
